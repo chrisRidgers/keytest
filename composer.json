@@ -1,0 +1,9 @@
+{
+    "name": "root/vagrant",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KeyTest\\": "src/"
+        }
+    }
+}
